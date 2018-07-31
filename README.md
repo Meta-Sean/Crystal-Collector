@@ -5,3 +5,5 @@
 1. You win the game by matching your total score to random number, you lose the game if your total score goes above the random number.
 1. The value of each crystal is hidden from you until you click on it
 1. Each time when the game starts, the game will change the values of each crystals
+
+![alt text](https://i.imgur.com/5swB4E9.png)
